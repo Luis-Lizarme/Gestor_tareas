@@ -2,6 +2,10 @@
 
 Una aplicación web sencilla y eficiente para gestionar tus tareas diarias. Permite crear, editar, eliminar y organizar tareas con diferentes niveles de prioridad.
 
+## Link de despliege 
+
+https://gestor-tareas-olive-eight.vercel.app/
+
 ## Características
 
 - **Gestión de Tareas**: Crear, leer, actualizar y eliminar tareas (CRUD).
